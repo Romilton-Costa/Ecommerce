@@ -2,25 +2,25 @@
 Projeto Full stack
  ## Backend
 
-- listagem de produtos
-- criar novos produtos e usuarios
-- autenticacao de usuario e administrador
-- testes unitarios
-- documentacao de rotas com swagger
+[ ] listagem de produtos <br>
+[ ] criar novos produtos e usuarios <br>
+[ ] autenticacao de usuario e administrador <br>
+[ ] testes unitarios <br>
+[ ] documentacao de rotas com swagger <br>
 
 ## Frontend
 
 ### Pages
 
-- Tela de Login — client
-- Tela de Administrador - admin
-- Tela de listagem de produtos
+[ ] Tela de Login — client <br>
+[ ] Tela de Administrador - admin <br>
+[ ] Tela de listagem de produtos <br>
 
 ### Componentes
 
-- carrinho — produtos selecionados
-- login
-- adminstrador
-- card
-
-Testes unitarios
+[ ] carrinho -- produtos selecionados <br>
+[ ] login <br>
+[ ] adminstrador <br>
+[ ] card <br>
+<hr/>
+[ ] Testes unitarios
