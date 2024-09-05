@@ -17,7 +17,7 @@ Projeto Full stack
 [ ] Tela de listagem de produtos <br>
 
 ### Componentes
-
+[ ] Header <br>
 [ ] carrinho -- produtos selecionados <br>
 [ ] login <br>
 [ ] adminstrador <br>
